@@ -43,7 +43,8 @@ Check live temperature, humidity, and weather conditions for any city across the
 - ⚛️ **React.js** — Component-based frontend library  
 - ⚡ **Vite** — Superfast development environment  
 - 🌦️ **OpenWeather API** — Real-time weather data  
-- 🎨 **CSS** — For styling (use whichever applies)  
+- 🎨 **CSS** — For styling (use whichever applies)
+- 🟨 **JavaScript (ES6+)** — Logic, API calls, and interactivity
 
 ---
 
