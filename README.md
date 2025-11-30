@@ -54,10 +54,10 @@ Follow these steps to run the project on your local machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/adarshj61/WeatherNow.git
+git clone https://github.com/adarshj61/Weather-App.git
 
 # Move into the project folder
-cd WeatherNow
+cd Weather-App
 
 # Install dependencies
 npm install
