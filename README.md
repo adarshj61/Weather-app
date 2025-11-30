@@ -24,8 +24,8 @@ Check live temperature, humidity, and weather conditions for any city across the
 ## 🚀 Demo
 ![Weather App Screenshot](screenshot.png)
 
-🔗 [Live Demo](https://adarshj61.github.io/WeatherNow/)  
-*(Replace this with your actual deployment link once live)*  
+🔗 [Live Demo](https://adarshj61.github.io/Weather-App)  
+
 
 ---
 
