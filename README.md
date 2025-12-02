@@ -24,7 +24,7 @@ Check live temperature, humidity, and weather conditions for any city across the
 ## 🚀 Demo
 ![Weather App Screenshot](screenshot.png)
 
-🔗 [Live Demo](https://adarshj61.github.io/Weather-App)  
+🔗 [Live Demo](https://weather-app-virid-nine-59.vercel.app) 
 
 
 ---
