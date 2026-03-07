@@ -104,7 +104,7 @@ I’m open to collaboration, freelance opportunities, or just a chat about tech.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="neon-badge"/>
   </a>
   <a href="" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" class="neon-badge"/>
+    
   </a>
 </p>
 
