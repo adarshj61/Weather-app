@@ -74,7 +74,7 @@ npm run dev
 2. Generate your **API key** after verifying your email.  
 3. Create a `.env` file in your project’s root folder and add the following line:
    ```bash
-   VITE_APP_ID=your_api_key_here
+   VITE_APP_ID=vite_api_key_here
 
 ## ⚠️ Disclaimer
 
